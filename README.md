@@ -1,4 +1,4 @@
-# Key points learnt from chapter 1 of [Django for Professionals](https://djangoforprofessionals.com/):
+# Key points from chapter 1 of [Django for Professionals](https://djangoforprofessionals.com/):
 
 - Docker is a way to isolate an entire operating system via Linux containers which are a type of virtualisation.
 - Through Docker, we can virtualise from the Linux layer up.
